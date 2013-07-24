@@ -5,5 +5,5 @@
 a=$(date +%H)
 
 if [ "$a"  -lt "8" ]; then
- firefox http://www.sinrazonaparente.com/lector/
+ firefox http://www.example.com/
 fi
